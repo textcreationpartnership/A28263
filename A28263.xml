@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bishops mittimus to goe to Bedlam vpon their accusation of high treason by the Parliament for making their petition and protestation to His Maiesty against the proceedings of the same : wherein is shewed the principall causes of their distraction and the evill effects of this distemper Anno. 1641 : with a charge to the master vvarders, and keepers of the prison for to use their best meanes to recover their wits againe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28263</idno>
+            <idno type="STC">Wing B3030</idno>
+            <idno type="STC">ESTC R11743</idno>
+            <idno type="EEBO-CITATION">11998179</idno>
+            <idno type="OCLC">ocm 11998179</idno>
+            <idno type="VID">52137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 558:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bishops mittimus to goe to Bedlam vpon their accusation of high treason by the Parliament for making their petition and protestation to His Maiesty against the proceedings of the same : wherein is shewed the principall causes of their distraction and the evill effects of this distemper Anno. 1641 : with a charge to the master vvarders, and keepers of the prison for to use their best meanes to recover their wits againe.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52137:1" rendition="simple:additions"/>
+            <pb facs="tcp:52137:1" rendition="simple:additions"/>
+            <p>THE BISHOPS MITTIMVS to goe to Bedlam.</p>
+            <p>Vpon their accuſation of high Treaſon by the Parliament for ma<g ref="char:EOLhyphen"/>king their petition and proteſtation to his Maieſty againſt the procee<g ref="char:EOLhyphen"/>dings of the ſame.</p>
+            <p>Wherein is ſhewed the prin<g ref="char:EOLhyphen"/>cipall cauſes of their diſtraction and the evill effects of this their diſtemper <hi>Anno.</hi> 1641.</p>
+            <p>VVith a charg to the Maſter VVar<g ref="char:EOLhyphen"/>ders, and Keepers of the priſon for to uſe their beſt meanes to recover their wits againe.</p>
+            <p>LONDON, Printed for <hi>I.W.</hi> in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52137:2"/>
+            <head>THE Bishops Mittimus for Bedlam Anno. twen<g ref="char:EOLhyphen"/>ty nine of <hi>December.</hi>
+            </head>
+            <p>THe Biſhops have verified the common Proverbe, to much money makes men mad, and to much eaſe and ſecurity joy<g ref="char:EOLhyphen"/>ned with plenty and ſociety is the firſt Originall of pride, avarice, Luxvrie and laciviouſneſſe, and being repleniſhed almuch with theſe foule de<g ref="char:EOLhyphen"/>fects, nay enormities; as with wealth, they have now no longer place for vertue, piety, and godli<g ref="char:EOLhyphen"/>neſſe to reſide with them, and having by this meanes forſaken the pathes of righteouſneſſe, Iuſtice and uprightneſſe, thereby provoking di<g ref="char:EOLhyphen"/>vine Iuſtice, to leave them to themſelves and their owne inventions, they ioyne themſelves to the Divell, become his inſtruments to commit all manner of wickedneſſe, and villany, to practiſe Tyranny over Gods heritage as they are Gover<g ref="char:EOLhyphen"/>nours to Innovate religion, as they are teachers to uſurpe Temporall Iuriſdiction to themſelves, over the perſons, lives and eſtates of the Kings good Subiects, their function and offices being
+<pb n="2" facs="tcp:52137:2" rendition="simple:additions"/>onely ſpirituall by this their power in there un<g ref="char:EOLhyphen"/>lawfull Courts of Inquiſition, high Commiſſion I would haue ſaid <hi>(Camera Stellate)</hi> ordinaries and other their Courts of oppreſſion) to proſecute good men by finding impriſoning Baniſhment under his Majeſties name, (ſo preſumptions is pride, to ſet forth lawes of their owne deviſing, Books of liberty, and unlawfull, and vitious ſpor<g ref="char:EOLhyphen"/>ting on the Lords day, increaſing thereby Pro<g ref="char:EOLhyphen"/>phanneſſe, ſwearing, drunkenneſſe, whoredome and adultery, heynous, and crying Synues, that his Maieſties people being left thus to themſelves and laid open as it were to all ſuggeſtions and temptations of the divell, as may be the readier, and willinger to joyne with them, their gover<g ref="char:EOLhyphen"/>nours, inſtructors and teachers; to act any deſigne againſt the Religion, and lawes of this Kingdom, to admit of Idolatry, Superſtition, and Romiſh Ceremonies to ioyne with Anti-chriſt the <hi>Pope,</hi> the originall and firſt beginning thereof. And when thus the hearts of licivious, and pernicious people be thus framed to their deſires, then dare they preſume to attempt the ſeducing of his Ma<g ref="char:EOLhyphen"/>ieſty in his Religion, to take diſlike in ſome things therein, that it is not ſo glorious in outward ap<g ref="char:EOLhyphen"/>pearance, as the Church of <hi>Rome,</hi> not decked with ſuch ornaments, not attended with ſuch grave and learned Biſhops, not ſo powerfull, not having both the Magiſtrate and Miniſters autho<g ref="char:EOLhyphen"/>rity, aſwell the ſword of juſtice, as of the word and ſpirit of God (wee are altogether ſpirituall) not ſo many neceſſary ceremonies, as bowing cringing, creeping, ſtanding up at <hi>Gloria patri</hi>
+               <pb n="3" facs="tcp:52137:3"/>kneeling at the receiving the enchariſt, whereby wee give more reverence, and holy reſpect to Chriſt and our religion, hereby inducing his Majeſty to give firſt a toleration of the Romiſh religion.</p>
+            <p>Secondly, to admit of certaine ceremonies indifferent to be uſed before named.</p>
+            <p>Thirdly to ioyne with the Church of <hi>Rome,</hi> that it is a true Church, doth not erre in funda<g ref="char:EOLhyphen"/>mentall points of doctrine, that the Pope is not Anti-chriſt, and the like which they have attai<g ref="char:EOLhyphen"/>ned. They now labour with his Majeſties coun<g ref="char:EOLhyphen"/>ſell, to draw them likewiſe to favour their de<g ref="char:EOLhyphen"/>fignes, or the moſt of them, and thoſe they can<g ref="char:EOLhyphen"/>not to procure their removeall, or by undue meanes; compell their aſſent to their practiſes, having now prevailed thus farre, and all things ſucceed according to their deſires, then deviſe they how to draw to their part the judges of the land, to that purpoſe they call in queſtion their proceedings in their ſeverall courts, for their granting ſo many Prohibitions, to hinder troubleſome and vexations ſuite in their illegall courts, having prevailed in this, they propound queſtions of the Kings prerogative, in leavying ſhip-money, rayſing of illegall taxes on the Kings good Subjects, to enrich their owne coffers, un<g ref="char:EOLhyphen"/>der pretence of releiving the Kings neceſſity; for money, who I perſwade my ſelfe have had very little thereof, now <hi>England</hi> being the moſt part thereof, at their beck, and perceiving theſe their practiſes are againſt the fundamentall lawes of the land, againſt religion eſtabliſhed in this
+<pb n="4" facs="tcp:52137:3"/>Kingdome againſt the rights and very being of Parlia<g ref="char:EOLhyphen"/>ments, and fearing if ever a Parliament ſhould be called they ſhould for theſe thinges be queſtioned, they indea<g ref="char:EOLhyphen"/>vour to prevent the ſame.</p>
+            <p n="1">1. By endeavouring to innovate religion in <hi>Scotland,</hi> which being rejected more, the King by Proclamati<g ref="char:EOLhyphen"/>ons, and edicts to command their obedience to the Bi<g ref="char:EOLhyphen"/>ſhops which yet refuſed, and covenanted againſt pro<g ref="char:EOLhyphen"/>cure actuall warre, to be leavyed againſt that Kingdome, whereby this Kingdome being buſily imployed in that deſigne, the ſtate thereof may not have leaſure to think of a Parliament.</p>
+            <p n="2">2. By procureing the Iudges to give forth their opi<g ref="char:EOLhyphen"/>nions the ſhipp money is inherent and inſeparable from the Crowne, and may bee levied with out parliament, that the King by his prerogative made leavie and raiſe taxes without a parliament, That the opinion of the Iudges is more validitie then an Act of Parliament and the like.</p>
+            <p n="3">3. To Command Animate and incourage the inferior Clergie to preach altogether of the power and Preroga<g ref="char:EOLhyphen"/>tive of the King the weakenes and vnneceſſarines of par<g ref="char:EOLhyphen"/>liaments, the ſacrednes and Power of Biſhops both Ec<g ref="char:EOLhyphen"/>cleſiaſticall and Civill that they are the head of the Church and not the King and ſuch like.</p>
+            <p n="4">4. To induce the Nobillitie and great officers and Councellors of ſtate to perſwade the King that he may by force of Armes leavie taxes on his Subiects, if they refuſe to pay the ſame with out Parliament and that Acts made by a Councell of ſtate is more bindeing to the ſubiect then an act of Parliament, that the preſent neceſſitie of the King required a more ſpeedie aide then by Parliament could bee afforded and the like.</p>
+            <pb n="4" facs="tcp:52137:4"/>
+            <p> And this they haveing acted their tragedy in this King<g ref="char:EOLhyphen"/>dome thus farr and by the prouidence and mercy of God hindred for any further Proſeeding in their deſpe<g ref="char:EOLhyphen"/>rate and raſh ſtratagems it come now to ſhew the cauſes of their diſtraction, the ſignes of their diſtraction and then ſett downe their Mittimus to Bedlam,</p>
+            <p n="1">1. The firſt cauſe of their diſtraction, I conceave was the calling of the Parliament. 12. Caroli which raiſed in them ſome diſtemper but it haveing not ſuch pre<g ref="char:EOLhyphen"/>dominance in their braines then as ſince their pollicy prevailed and cauſed the diſſolution of that Parliament.</p>
+            <p n="2">2. At the Kings goeing to the North being at Yorke divers peticions being delivered to his M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſtie by the nobillitie by the Cittie of London and many Coun<g ref="char:EOLhyphen"/>ties of this Kingdome which produced the calling of another Parliament which began 3; <hi>Nouembris. Anno Do<g ref="char:EOLhyphen"/>mini.</hi> 1641. This might bee the ſecond cauſe of their diſtraction.</p>
+            <p n="3">3. The quick and ſudden accuſing &amp; proſecution of the Leivetennant of Ireland their Cheifeſt Councellor and defence, and his execution following therevpon not withſtanding all their practiſes and plotts did Agravate ſome what their diſtemper.</p>
+            <p n="4">4. The accuſation and Impeachment of high Trea<g ref="char:EOLhyphen"/>ſon their <hi>Primnum Mobile,</hi> the firſt mover and beginner of all their miſcheivous deſignes. The Archbiſhop of Canterburie Aggravated more their diſtraction.</p>
+            <p n="5">5. The Parliaments proceedings againſt ſcandalous Miniſters and delingnents in the Clergie iucreaſed ſtill their diſtemper.</p>
+            <p n="6">6. The Parliament calling in queſtion the proſeed<g ref="char:EOLhyphen"/>ings of the late Convocation wherein they were cheife Agitators condemning the Cannons by them there
+<pb n="5" facs="tcp:52137:4"/>made voted the members of that Synod in a Preminire, for holding the ſame made them all moſt out of their witts.</p>
+            <p n="7">7. The ſeverall Charges of the Parliament againſt them ſelves perticularly of all thoſe crimes and many more I have before mentioned voted againſted their ſitting in the upper houſe of Parliament and their vots in the ſame together with the daylie meetings of the Cittizens with petitions and Cryeinge againſt Biſhops made them altogether madd.</p>
+            <p>And thus much of their cauſes of diſtraction, I come now to give you a ſigne or two of their ffrencie by their deſperate actions ſince their biſtemper.</p>
+            <p n="1">1. Firſt their obſtinate oppoſinge the proſeedings of the houſe of Commons againſt relinquents and ſett<g ref="char:EOLhyphen"/>ing Religion which had they bene well in their witts they would never have done.</p>
+            <p n="2">2. And ſecondly their deſperate attempt againſt the whole ſtate of the Kingdom by their petition to his Majeſtie and proteſtation againſt them.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="mittimus">
+                        <head>The Mittimus.</head>
+                        <p>Whereas I am given to underſtand to my great greife and ſorrow that the reverent Fathers in God the Lord Arch-biſhop of Yorke &amp;c. are by ſtrange Caſualities become altogeather diſtracted and diſtempered in their witts ſo ſarr as they are not to be governed by any or<g ref="char:EOLhyphen"/>dinary meanes or brought again to their ſences by any Acte or perſwation whatſoever which is a great diſtur<g ref="char:EOLhyphen"/>bance and greivance to all their freinds and allyances but cauſeth in and about the Court great troubles and di<g ref="char:EOLhyphen"/>ſtempers requiring preſent prove<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tion for feare that
+<pb n="7" facs="tcp:52137:5"/>greater inconuenience doth follow there vpon, It is thought fitt and commanded that the Maſters Warders and Keepers of the Priſon ordained for the entertaine<g ref="char:EOLhyphen"/>ment of diſtracted and franticke perſons doe take into their Cuſtodie the perſons of the ſaid Arch-biſhop of Yorke &amp;c. and vſe meanes for the reſto<g ref="char:EOLhyphen"/>ring of them to their former vnder<g ref="char:EOLhyphen"/>ſtanding, as ſhall be requiſite.</p>
+                        <closer>
+                           <salute>Fare you well</salute>
+                           <dateline>given under our hand and ſeale <date>this 29. of December 1641.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52137:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
